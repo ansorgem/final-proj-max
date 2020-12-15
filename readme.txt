@@ -2,7 +2,6 @@
 To use this program you must have the following packages installed on your computer:
 bs4
 requests
-json
 spotipy
 sqlite3
 matplotlib.pyplot
